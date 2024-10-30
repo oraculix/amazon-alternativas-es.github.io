@@ -1,2 +1,6 @@
 .vscode/settings.json
 .obsidian/*
+
+# Exclude OS settings and caches
+.trash/
+.DS_Store
